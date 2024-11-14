@@ -21,8 +21,8 @@ st.subheader("Brady Clements, Patrick Manning")
 st.write("""
 Welcome to our Streamlit Web Development Lab03 app! You can navigate between the pages using the sidebar to the left. The following pages are:
 
-1.
-2.
+1. Brady's Portfolio: A page dedicated to showcasing Brady's professional experience.
+2. Patrick's Portfolio: A page dedicated to showcasing Patrick's professional experience.
 3.
 4.
 
